@@ -127,8 +127,9 @@
 ## 🧩 LeetCode Stats
 
 <div align="center">
+  <h3>Vidhun Krishna S</h3>
   <a href="https://leetcode.com/u/jdHyOpae0h/">
-    <img src="https://leetcard.jacoblin.cool/jdHyOpae0h?theme=dark&font=baloo&ext=activity" alt="Vidhun Krishna's LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/jdHyOpae0h?theme=dark&font=inter" alt="Vidhun Krishna S LeetCode Stats" />
   </a>
 </div>
 
