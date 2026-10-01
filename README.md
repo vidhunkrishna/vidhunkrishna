@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 **Pre-Final Year CSE Student** at **Sri Krishna College of Technology**, Coimbatore *(CGPA: 8.3 / 10)*.
-- ⚡ **Strong Problem Solver**: Passionate about Data Structures & Algorithms with **C++** as primary problem-solving language.
+- ⚡ **Problem Solver**: Passionate about Data Structures & Algorithms with **C++** as primary problem-solving language.
 - 💻 **Full-Stack Developer**: Practical experience building modern applications using **React**, **Spring Boot (Java)**, and **Express (Node.js)**.
 - 🛢️ **Databases & Security**: Comfortable working with **PostgreSQL**, **MySQL**, **MongoDB**, JWT authentication, and Google OAuth.
 - ☁️ **Cloud & Software Engineering**: Hands-on exposure with **Docker**, **AWS**, and REST API architecture.
@@ -37,6 +37,7 @@
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -49,6 +50,7 @@
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Cloud / DevOps
@@ -126,7 +128,7 @@
 
 <div align="center">
   <a href="https://leetcode.com/u/jdHyOpae0h/">
-    <img src="https://leetcode-stats.vercel.app/api?username=jdHyOpae0h&theme=dark" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/jdHyOpae0h?theme=dark&font=baloo&ext=activity" alt="Vidhun Krishna's LeetCode Stats" />
   </a>
 </div>
 
