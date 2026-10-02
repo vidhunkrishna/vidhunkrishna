@@ -1,4 +1,7 @@
 <div align="center">
+  <a href="https://vidhunkrishnas-portfolio.vercel.app/">
+    <img src="profile.png" alt="Portfolio Image"/>
+  </a>
   <h1>Hi there, I'm Vidhun Krishna S 👋</h1>
   <h3>CSE Student | Full-Stack Developer | C++ & DSA</h3>
 
