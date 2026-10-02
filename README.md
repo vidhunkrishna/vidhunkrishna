@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://vidhunkrishnas-portfolio.vercel.app/">
+  <a href="https://vidhunkrishnas-portfolio.vercel.app/" target="_blank">
     <img src="profile.png" alt="Portfolio Image"/>
   </a>
   <h1>Hi there, I'm Vidhun Krishna S 👋</h1>
