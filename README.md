@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://vidhunkrishnas-portfolio.vercel.app/" target="_blank">
-    <img src="profile.svg" alt="Portfolio Image" width="250" height="120"/>
+    <img src="profile.svg" alt="Portfolio Image" width="200" height="80"/>
   </a>
   <h1>Hi there, I'm Vidhun Krishna S 👋</h1>
   <h3>CSE Student | Full-Stack Developer | C++ & DSA</h3>
